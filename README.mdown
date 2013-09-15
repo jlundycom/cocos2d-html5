@@ -1,4 +1,9 @@
-Cocos2d-html5
+jlundycom fork of Cocos2d-html5
+==================
+I'm a new developer to Javascript attempting to create some basic javascript games.  I decided to keep my experiments here on github with an associated fork
+of cocos2d that I will use for my development.  Check out the original project
+for greater information.
+
 ==================
 
 [Cocos2d-html5][1] is a cross-platform 2D game engine written in Javascript, based on [Cocos2d-X][2] and licensed under MIT.
